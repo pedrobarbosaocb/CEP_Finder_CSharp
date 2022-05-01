@@ -1,0 +1,11 @@
+E:\Cast\AvaliacaoTecnica\WF-2\Aula41-CEP\bin\Debug\Aula41-CEP.exe.config
+E:\Cast\AvaliacaoTecnica\WF-2\Aula41-CEP\bin\Debug\Aula41-CEP.exe
+E:\Cast\AvaliacaoTecnica\WF-2\Aula41-CEP\bin\Debug\Aula41-CEP.pdb
+E:\Cast\AvaliacaoTecnica\WF-2\Aula41-CEP\obj\Debug\Aula41-CEP.csproj.AssemblyReference.cache
+E:\Cast\AvaliacaoTecnica\WF-2\Aula41-CEP\obj\Debug\Aula41-CEP.csproj.SuggestedBindingRedirects.cache
+E:\Cast\AvaliacaoTecnica\WF-2\Aula41-CEP\obj\Debug\Aula41_CEP.Form1.resources
+E:\Cast\AvaliacaoTecnica\WF-2\Aula41-CEP\obj\Debug\Aula41_CEP.Properties.Resources.resources
+E:\Cast\AvaliacaoTecnica\WF-2\Aula41-CEP\obj\Debug\Aula41-CEP.csproj.GenerateResource.cache
+E:\Cast\AvaliacaoTecnica\WF-2\Aula41-CEP\obj\Debug\Aula41-CEP.csproj.CoreCompileInputs.cache
+E:\Cast\AvaliacaoTecnica\WF-2\Aula41-CEP\obj\Debug\Aula41-CEP.exe
+E:\Cast\AvaliacaoTecnica\WF-2\Aula41-CEP\obj\Debug\Aula41-CEP.pdb
